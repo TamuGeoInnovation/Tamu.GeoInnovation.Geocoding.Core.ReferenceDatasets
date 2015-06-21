@@ -1,0 +1,6 @@
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.dll.config
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets\src\Main\obj\Release\Geocoding.Core.ReferenceDatasets.Dev.csprojResolveAssemblyReference.cache
